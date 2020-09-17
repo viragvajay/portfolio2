@@ -1,0 +1,6 @@
+# ignore everything in the "wp-content" directory, except the "wp-content"
+directory.
+/*
+!.gitignore
+!wp-content/
+!wp-config.php
